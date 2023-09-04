@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@automerge/automerge": "2.1.0-alpha.12",
+    "jest": "29.6.4"
+  }
 }
